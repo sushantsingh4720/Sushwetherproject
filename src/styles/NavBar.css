@@ -17,7 +17,7 @@
 }
 
 .navbar-input:focus{
-    border: 2px solid orange;
+    border: 2px solid rgb(14, 68, 38);
     outline: none;
 }
 

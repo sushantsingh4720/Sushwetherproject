@@ -1,9 +1,9 @@
 body{
-    background-color: antiquewhite;
+    background-color: rgb(50, 72, 69);
     font-family: 'Comic Sans MS', sans-serif;
 }
 .main{
-    background-color: white;
+    background-color: rgb(153, 244, 189);
     margin: auto;
     width:962px;
     height: 630px;

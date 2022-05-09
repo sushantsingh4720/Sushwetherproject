@@ -9,7 +9,7 @@ export default function NavBar({setInputValue, inputValue, search}) {
         <div className="navbar">
             <div className="logo-name">
             <img src={weather_main_icon} className="weather-main-icon" alt=""></img>
-            <h2>Wind Weather</h2>
+            <h2>Sush Weather</h2>
             </div>
             
             <input type="text" placeholder="Search" className="navbar-input"

@@ -12,7 +12,7 @@ export default function Home({inputValue}) {
                 </div>
                 </Link>
                 <div className="home-detail"> 
-                    <p>Welcome To the Wind Weather...</p>
+                    <p>Welcome To the Sush Weather...</p>
                     <p>Type the name of City for which you want to check weather, Hit Enter</p>
                     <p>Now click on the Shiny SUN</p>
                 </div>
@@ -22,9 +22,9 @@ export default function Home({inputValue}) {
     }
     else return (
         <div>
-            <img className="gif" src={sunny} alt="WIND"></img>
+            <img className="gif" src={sunny} alt="Sush"></img>
             <div className="home-detail"> 
-                <p>Welcome To the Wind Weather...</p>
+                <p>Welcome To the Sush Weather...</p>
                 <p>Type the name of City for which you want to check weather, Hit Enter</p>
                 <p>Now click on the Shiny SUN</p>
              </div>
