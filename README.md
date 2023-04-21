@@ -1,6 +1,6 @@
-# Expense tracker App using React
+# Sush Weather Web App
 
-This is the Expense tracker App.
+This is the Weather Web App.
 
 ### Install dependencies
 
